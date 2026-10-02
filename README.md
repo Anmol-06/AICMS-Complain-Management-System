@@ -1,4 +1,4 @@
-# AIVOA Customer Complaint Management System
+# AICMS-Customer Complaint Management System
 ### API & FDF Quality Assurance Module • Pharmaceutical Manufacturing
 
 A modern, regulatory-compliant pharmaceutical customer complaint management application designed for Good Manufacturing Practice (GMP) quality assurance workflows. The platform pairs a structured, human-in-the-loop manual complaint form with an advanced **AI Complaint Intake Assistant** powered by **Groq LPU** inference and **LangGraph** orchestration.
@@ -182,7 +182,7 @@ A modern, regulatory-compliant pharmaceutical customer complaint management appl
 
 ```bash
 # Navigate to repository root
-cd AIVOA-Complain-Management-System
+cd AICMS-Complain-Management-System
 
 # Create and activate a virtual environment
 python3 -m venv .venv
